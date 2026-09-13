@@ -1,0 +1,7 @@
+﻿data/raw/
+data/transcripts_raw/
+data/processed/
+data/chroma/
+*.pyc
+__pycache__/
+.env
